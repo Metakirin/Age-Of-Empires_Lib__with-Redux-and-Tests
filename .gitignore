@@ -1,0 +1,12 @@
+/node_modules
+/.idea
+/.vscode
+/.firebase
+/.firebaserc
+/.eslintcache
+'./node_modules'
+'./.eslintcache'
+./AOE2.bat
+/package-lock.json
+/build
+node_modules/*
