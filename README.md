@@ -16,10 +16,9 @@
 ##
 
    ***Addon techs:***
-   - Bootstrap
-   - Styled Components
-   - PropTypes
-   - Swiper
-   - Axios
-   - Enzyme
-   - React testing library
+   - [Bootstrap](https://getbootstrap.com/)
+   - [Styled Components](https://styled-components.com/)
+   - [PropTypes](https://www.npmjs.com/package/prop-types)
+   - [Axios](https://axios-http.com/)
+   - [Swiper](https://swiperjs.com/)
+   - [Enzyme](https://www.npmjs.com/package/enzyme)
