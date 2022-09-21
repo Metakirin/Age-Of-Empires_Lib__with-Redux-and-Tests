@@ -6,7 +6,8 @@
   >   - Redux Toolkit. [view](https://redux-toolkit.js.org/)
   >   - Redux-Saga. [view](https://redux-saga.js.org/)
   
-  > **Jest.** [view](https://jestjs.io/)![Без названия](https://user-images.githubusercontent.com/65970612/191054522-d02a8c5d-89ab-4991-ad9c-d9cc0e433cfe.png)
+  > **Jest.** [view](https://jestjs.io/) ![Без названия](https://user-images.githubusercontent.com/65970612/191549853-afb81323-14ea-4572-8b34-4b76af72d2fb.png)
+
 
   > **Firebase.** [view](https://console.firebase.google.com/) ![5847f40ecef1014c0b5e488a](https://user-images.githubusercontent.com/65970612/191054723-3d1b02ab-1f30-4564-abcb-5445a6c544e7.png)
 
